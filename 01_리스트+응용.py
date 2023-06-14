@@ -383,3 +383,4 @@ for i in range(10): # i <- 안 겹치게만.
         # 삼중... 사중...
 # 이중 for문? 이중 리스트 컴프리헨션
 print([(i, j, i * j) for j in range(0, 10, 2) for i in range(0, 10, 3)])
+
